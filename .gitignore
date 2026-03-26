@@ -1,0 +1,9 @@
+node_modules/
+dist/
+
+.codex-vite.out.log
+.codex-vite.err.log
+
+*.local
+Thumbs.db
+.DS_Store
