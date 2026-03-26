@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.github
+.codex-vite.out.log
+.codex-vite.err.log
+npm-debug.log*
+Dockerfile*
+compose*.yaml
